@@ -1,6 +1,6 @@
-const str1 = "Bryan";
-const str2 = "Benjamin";
+function concatStrings(strngA, strngB){
+    return strngA.concat(" ", strngB);
+}
 
-console.log(str1.concat(" ", str2)); // Bryan Benjamin
-
-console.log(str2.concat(", ", str1)); // Benjamin, Bryan
+console.log(concatStrings("Bryan", "Benjamin")); 
+console.log(concatStrings("Benjamin", "Bryan")); 
