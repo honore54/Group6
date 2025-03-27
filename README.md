@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IRIMS - Backend
 
 ## Overview
@@ -31,3 +32,6 @@ npm install
 ```bash
 npm start
 ```
+=======
+# Group6
+>>>>>>> 0516d4593f1a78c6e6ceea5a51e4d0c0747aad44
