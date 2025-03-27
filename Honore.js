@@ -13,3 +13,13 @@ console.log(getCharacterAt(-6));
 console.log(getCharacterAt(20)); 
 console.log(getCharacterAt(-20));
 
+
+
+// function printNumbers(){
+//     for(let i=1; i<=3; i++){
+//         setTimeout(function(){
+//             console.log(i);
+//         }, 0)
+//     }
+// }
+// printNumbers()
